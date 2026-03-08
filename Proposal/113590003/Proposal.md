@@ -52,7 +52,6 @@
   - [ ] 切割/堆疊升級
   - [ ] 上色/混色升級
 - Week 12：隨機世界生成
-  - [ ] 柏林雜訊
   - [ ] 基礎世界生成
 - Week 13：隨機世界生成
   - [ ] 基地距離權重
@@ -75,5 +74,6 @@
 # 長頸鹿大冒險通關證明
 <img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/f88936ae-a844-40d6-87a6-406fd220bc3c" />
 <img width="874" height="470" alt="image" src="https://github.com/user-attachments/assets/94664714-f292-454e-90ab-f87f93a7666d" />
+
 
 
